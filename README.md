@@ -1,4 +1,4 @@
-# Facebook Clone. 🚀 
+# Paypal checkout page. 🚀 
 
 ### Live Demo 👉  https://sakthi-rct.github.io/paypal-checkout/
 
